@@ -1,2 +1,2 @@
 # Cannon-Shooter
-The purpose of this project is to formulate a program that simulates a Cannon Shooter game using accessible functions in openGL. 
+Designed a single player projectile shooting 2-dimensional game with objective of destroying ships sailing in the sea using a cannon on the hill to achieve high score. Implemented using C and OpenGl framework.
